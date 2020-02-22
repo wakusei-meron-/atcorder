@@ -1,0 +1,6 @@
+[package]
+name = "B"
+version = "0.1.0"
+authors = ["ishibashi_genki <ishibashi_genki@cyberagent.co.jp>"]
+
+[dependencies]
